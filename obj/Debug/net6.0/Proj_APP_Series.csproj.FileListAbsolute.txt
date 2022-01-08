@@ -1,0 +1,15 @@
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\Proj_APP_Series.exe
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\Proj_APP_Series.deps.json
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\Proj_APP_Series.runtimeconfig.json
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\Proj_APP_Series.dll
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\ref\Proj_APP_Series.dll
+C:\Users\Linco\source\repos\Proj_APP_Series\bin\Debug\net6.0\Proj_APP_Series.pdb
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.csproj.AssemblyReference.cache
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.AssemblyInfoInputs.cache
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.AssemblyInfo.cs
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.csproj.CoreCompileInputs.cache
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.dll
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\ref\Proj_APP_Series.dll
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.pdb
+C:\Users\Linco\source\repos\Proj_APP_Series\obj\Debug\net6.0\Proj_APP_Series.genruntimeconfig.cache
